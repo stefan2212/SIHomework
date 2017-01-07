@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TemaSI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TemaSI_jar</output-path>
+    <root id="archive" name="TemaSI.jar">
+      <element id="module-output" name="TemaSI" />
+    </root>
+  </artifact>
+</component>
